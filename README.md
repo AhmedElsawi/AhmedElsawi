@@ -1,16 +1,47 @@
-## Hi there 👋
 
-<!--
-**AhmedElsawi/AhmedElsawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # Ahmed Elsawi
 
-Here are some ideas to get you started:
+🎓 Math & Computer Science Graduate | Software Engineer  
+📍 Mukilteo, WA 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I’m a recent graduate with a strong foundation in **data structures, algorithms, and full-stack development**, focused on building clean, scalable applications.
+
+---
+
+## Core Strengths
+
+- Full-stack application development
+- RESTful API design
+- Strong problem-solving and algorithmic thinking
+- Clean, maintainable code practices
+
+---
+
+## Tech Stack
+
+**Languages:**  
+JavaScript, Java, Python, SQL  
+
+**Frontend:**  
+HTML, CSS, React  
+
+**Backend:**  
+Node.js, Express  
+
+**Tools:**  
+Git, GitHub, Postman, Docker (familiar), AWS (familiar)  
+
+---
+
+## 📌 Current Projects
+
+- **Ticketing System**  
+  Full-stack application with role-based access and structured backend API  
+
+-  **Weather App**  
+  API-driven application with dynamic UI updates  
+
