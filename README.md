@@ -20,23 +20,6 @@ I’m a recent graduate with a strong foundation in **data structures, algorithm
 - Clean, maintainable code practices
 
 ---
-
-## Tech Stack
-
-**Languages:**  
-JavaScript, Java, Python, SQL  
-
-**Frontend:**  
-HTML, CSS, React  
-
-**Backend:**  
-Node.js, Express  
-
-**Tools:**  
-Git, GitHub, Postman, Docker (familiar), AWS (familiar)  
-
----
-
 ## 📌 Current Projects
 
 - **Ticketing System**  
