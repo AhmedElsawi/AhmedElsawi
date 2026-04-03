@@ -1,11 +1,9 @@
 
-  # 🏎️ Ahmed Elsawi
+  # Ahmed Elsawi 👋🏽 
 
-Math & Computer Science Graduate | Software Engineer  
-Mukilteo, WA 
+Math & Computer Science Graduate | Software Engineer
 
 ---
-
 ## About Me
 
 I’m a recent graduate with a strong foundation in **data structures, algorithms, and full-stack development**, focused on building clean, scalable applications.
